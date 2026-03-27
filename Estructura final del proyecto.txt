@@ -1,0 +1,12 @@
+ninja-labyrinth/
++-- .gitignore
++-- LICENSE
++-- README.md
++-- requirements.txt
++-- src/
+    +-- __init__.py
+    +-- constants.py
+    +-- game.py
+    +-- main.py
+    +-- map.py
+    +-- player.py
